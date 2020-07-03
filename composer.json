@@ -1,7 +1,8 @@
 {
     "name": "ying/mycomphp",
+    "description": "test composer tag log packlist",
     "type": "libary",
-    "license": "Mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "ying",
